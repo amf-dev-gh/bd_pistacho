@@ -42,7 +42,7 @@
       "cantidad": "300 Gr",
       "precio": 11450,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
-      "destacado": false,
+      "destacado": true,
       "stock": 10
     },
     {
