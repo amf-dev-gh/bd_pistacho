@@ -4,7 +4,7 @@
       "id": 1,
       "nombre": "“Amande” Almendras",
       "categoria": {
-        "id": 0,
+        "id": 12,
         "nombre": "Leche vegetal",
         "principal": false
       },
@@ -19,7 +19,7 @@
       "id": 2,
       "nombre": "“Amande” Coco y Almendras",
       "categoria": {
-        "id": 0,
+        "id": 12,
         "nombre": "Leche vegetal",
         "principal": false
       },
@@ -32,9 +32,9 @@
     },
     {
       "id": 3,
-      "nombre": "Manteca clarificada “Entre Nuts”",
+      "nombre": "“Entre Nuts”",
       "categoria": {
-        "id": 0,
+        "id": 14,
         "nombre": "Manteca clarificada GHEE",
         "principal": false
       },
@@ -49,9 +49,9 @@
       "id": 4,
       "nombre": "“SÁTVIKA” CON PASTA DE MANI",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena, mani, miel copos de maíz, semillas pasas de uva, sésamo, coco rallado, arroz inflado y yamaní",
       "cantidad": "1 kg",
@@ -64,7 +64,7 @@
       "id": 5,
       "nombre": "Aceite de Coco “El Cosaco” Neutro",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -79,7 +79,7 @@
       "id": 6,
       "nombre": "Aceite de Coco “Entre Nuts” Neutro",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -94,7 +94,7 @@
       "id": 7,
       "nombre": "Aceite de Coco “Entre Nuts” Virgen",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -109,7 +109,7 @@
       "id": 8,
       "nombre": "Aceite de Coco “Entre Nuts” Virgen",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -124,7 +124,7 @@
       "id": 9,
       "nombre": "Aceite de Oliva Extra Virgen",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -139,7 +139,7 @@
       "id": 10,
       "nombre": "Aceite de Oliva Extra Virgen",
       "categoria": {
-        "id": 0,
+        "id": 1,
         "nombre": "Aceites",
         "principal": false
       },
@@ -154,9 +154,9 @@
       "id": 11,
       "nombre": "Almendra",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -169,9 +169,9 @@
       "id": 12,
       "nombre": "Almendra",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -184,7 +184,7 @@
       "id": 13,
       "nombre": "ALMENDRAS",
       "categoria": {
-        "id": 0,
+        "id": 10,
         "nombre": "Granolas “TUTTI GRANI”",
         "principal": false
       },
@@ -199,7 +199,7 @@
       "id": 14,
       "nombre": "Almendras con chocolate",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -214,9 +214,9 @@
       "id": 15,
       "nombre": "Almohaditas",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "(Frutilla/Avellana)",
       "cantidad": "1 kg",
@@ -229,9 +229,9 @@
       "id": 16,
       "nombre": "Almohaditas",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "(Frutilla/Avellana)",
       "cantidad": "1/2 kg",
@@ -244,9 +244,9 @@
       "id": 17,
       "nombre": "Ananá glaseado económico",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -259,9 +259,9 @@
       "id": 18,
       "nombre": "Ananá glaseado económico",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -274,9 +274,9 @@
       "id": 19,
       "nombre": "Anillos Frutales",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -289,9 +289,9 @@
       "id": 20,
       "nombre": "Anillos Frutales",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -304,9 +304,9 @@
       "id": 21,
       "nombre": "Arándanos pasas",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -319,9 +319,9 @@
       "id": 22,
       "nombre": "Arándanos pasas",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -334,9 +334,9 @@
       "id": 23,
       "nombre": "Arroz al Curry",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(200 Grs X3 Uni)",
@@ -349,9 +349,9 @@
       "id": 24,
       "nombre": "Arroz Yamaní",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -364,9 +364,9 @@
       "id": 25,
       "nombre": "Arroz Yamaní",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -379,9 +379,9 @@
       "id": 26,
       "nombre": "Avena instantánea",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -394,9 +394,9 @@
       "id": 27,
       "nombre": "Avena instantánea",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -409,7 +409,7 @@
       "id": 28,
       "nombre": "Azúcar Mascabo",
       "categoria": {
-        "id": 0,
+        "id": 5,
         "nombre": "Endulzantes",
         "principal": false
       },
@@ -424,7 +424,7 @@
       "id": 29,
       "nombre": "Azúcar Mascabo",
       "categoria": {
-        "id": 0,
+        "id": 5,
         "nombre": "Endulzantes",
         "principal": false
       },
@@ -439,9 +439,9 @@
       "id": 30,
       "nombre": "Banana disecada",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -454,9 +454,9 @@
       "id": 31,
       "nombre": "Banana disecada",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -469,9 +469,9 @@
       "id": 32,
       "nombre": "BERRIES “KÖS”",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena arrollada gruesa, almendras, nueces, pasas arándanos deshidratados, girasol, endulzante natural, copos de maíz",
       "cantidad": "1 kg",
@@ -484,9 +484,9 @@
       "id": 33,
       "nombre": "Bolitas de Chocolate",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -499,9 +499,9 @@
       "id": 34,
       "nombre": "Bolitas de Chocolate",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -514,7 +514,7 @@
       "id": 35,
       "nombre": "Cacao en polvo alcalino",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -529,7 +529,7 @@
       "id": 36,
       "nombre": "Cacao en polvo alcalino",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -544,9 +544,9 @@
       "id": 37,
       "nombre": "Caldo de Verduras",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(140 Grs X2 Uni)",
@@ -559,9 +559,9 @@
       "id": 38,
       "nombre": "Castaña de Cajú",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -574,9 +574,9 @@
       "id": 39,
       "nombre": "Castaña de Cajú",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -589,9 +589,9 @@
       "id": 40,
       "nombre": "Chía",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -604,9 +604,9 @@
       "id": 41,
       "nombre": "Chía",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -619,9 +619,9 @@
       "id": 42,
       "nombre": "Ciruelas descarozadas",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -634,9 +634,9 @@
       "id": 43,
       "nombre": "Ciruelas descarozadas",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -649,7 +649,7 @@
       "id": 44,
       "nombre": "Coco Rallado Medium Fat",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -664,7 +664,7 @@
       "id": 45,
       "nombre": "Coco Rallado Medium Fat",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -679,9 +679,9 @@
       "id": 46,
       "nombre": "COMÚN",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, pasas de uva, almendras, nueces y semillas de girasol",
       "cantidad": "1 kg",
@@ -694,9 +694,9 @@
       "id": 47,
       "nombre": "COMÚN",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, pasas de uva, almendras, nueces y semillas de girasol",
       "cantidad": "1/2 kg",
@@ -709,9 +709,9 @@
       "id": 48,
       "nombre": "COMÚN C/CASTAÑA",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, almendras, nueces, castañas de cajú, girasol y pasas de uva",
       "cantidad": "1 kg",
@@ -724,9 +724,9 @@
       "id": 49,
       "nombre": "COMÚN C/CASTAÑA",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, almendras, nueces, castañas de cajú, girasol y pasas de uva",
       "cantidad": "1/2 kg",
@@ -739,9 +739,9 @@
       "id": 50,
       "nombre": "Copos azucarados",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -754,9 +754,9 @@
       "id": 51,
       "nombre": "Copos azucarados",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -769,9 +769,9 @@
       "id": 52,
       "nombre": "Copos sin azúcar",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -784,9 +784,9 @@
       "id": 53,
       "nombre": "Copos sin azúcar",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -799,9 +799,9 @@
       "id": 54,
       "nombre": "Cous Cous Marroquí",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(185 Grs X3 Uni)",
@@ -814,9 +814,9 @@
       "id": 55,
       "nombre": "CROCANTE “SÁTVIKA”",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena, mani, miel copos de maíz, semillas pasas de uva, sésamo, coco rallado, arroz inflado y yamaní",
       "cantidad": "1 kg",
@@ -829,9 +829,9 @@
       "id": 56,
       "nombre": "Dátiles con caroso",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -844,9 +844,9 @@
       "id": 57,
       "nombre": "Dátiles con caroso",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -859,7 +859,7 @@
       "id": 58,
       "nombre": "DULCE DE LECHE",
       "categoria": {
-        "id": 0,
+        "id": 10,
         "nombre": "Granolas “TUTTI GRANI”",
         "principal": false
       },
@@ -874,7 +874,7 @@
       "id": 59,
       "nombre": "Dulce de leche Artesanal",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -889,9 +889,9 @@
       "id": 60,
       "nombre": "ENERGÉTICA “KÖS”",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena arrollada gruesa, almendras, pasas de uva, semillas, miel, avena y copos de maíz",
       "cantidad": "1 kg",
@@ -904,7 +904,7 @@
       "id": 61,
       "nombre": "Frutas Abrillantadas",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -919,7 +919,7 @@
       "id": 62,
       "nombre": "Frutas Abrillantadas",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -934,7 +934,7 @@
       "id": 63,
       "nombre": "Frutos Rojos/Arándanos",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -949,9 +949,9 @@
       "id": 64,
       "nombre": "Garbanzo",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -964,9 +964,9 @@
       "id": 65,
       "nombre": "Garbanzo",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -979,9 +979,9 @@
       "id": 66,
       "nombre": "Girasol",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -994,9 +994,9 @@
       "id": 67,
       "nombre": "Girasol",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1009,9 +1009,9 @@
       "id": 68,
       "nombre": "Guiso de Lentejas",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(200 Grs X3 Uni)",
@@ -1024,9 +1024,9 @@
       "id": 69,
       "nombre": "Guiso de Lentejas XXL",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(350 Grs X2 Uni)",
@@ -1039,9 +1039,9 @@
       "id": 70,
       "nombre": "Harina de Almendras c/piel",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1054,9 +1054,9 @@
       "id": 71,
       "nombre": "Harina de Almendras c/piel",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1069,9 +1069,9 @@
       "id": 72,
       "nombre": "Harina de Almendras s/piel",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1084,9 +1084,9 @@
       "id": 73,
       "nombre": "Harina de Almendras s/piel",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1099,9 +1099,9 @@
       "id": 74,
       "nombre": "Harina de Arroz",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1114,9 +1114,9 @@
       "id": 75,
       "nombre": "Harina de Arroz",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1129,9 +1129,9 @@
       "id": 76,
       "nombre": "Harina de Avena",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1144,9 +1144,9 @@
       "id": 77,
       "nombre": "Harina de Avena",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1159,9 +1159,9 @@
       "id": 78,
       "nombre": "Harina de Cannabis/044",
       "categoria": {
-        "id": 0,
+        "id": 18,
         "nombre": "Suplementos naturales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(90Gr)",
@@ -1174,9 +1174,9 @@
       "id": 79,
       "nombre": "Harina de Coco",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1189,9 +1189,9 @@
       "id": 80,
       "nombre": "Harina de Coco",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1204,9 +1204,9 @@
       "id": 81,
       "nombre": "Harina de Garbanzos",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1219,9 +1219,9 @@
       "id": 82,
       "nombre": "Harina de Garbanzos",
       "categoria": {
-        "id": 0,
+        "id": 11,
         "nombre": "Harinas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1234,9 +1234,9 @@
       "id": 83,
       "nombre": "Lenteja",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1249,9 +1249,9 @@
       "id": 84,
       "nombre": "Lenteja",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1264,9 +1264,9 @@
       "id": 85,
       "nombre": "Levadura Nutricional",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(180 Grs)",
@@ -1279,9 +1279,9 @@
       "id": 86,
       "nombre": "Lino",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1294,9 +1294,9 @@
       "id": 87,
       "nombre": "Lino",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1309,9 +1309,9 @@
       "id": 88,
       "nombre": "LIVE “KÖS”",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena arrollada gruesa, manzana natural, avena, copos de de girasol y semillas de zapallo",
       "cantidad": "1 kg",
@@ -1324,9 +1324,9 @@
       "id": 89,
       "nombre": "Maca Peruana Blanca “Kallpa”",
       "categoria": {
-        "id": 0,
+        "id": 18,
         "nombre": "Suplementos naturales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(500Gr)",
@@ -1339,9 +1339,9 @@
       "id": 90,
       "nombre": "Maca Peruana Negra “Kallpa”",
       "categoria": {
-        "id": 0,
+        "id": 18,
         "nombre": "Suplementos naturales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(150Gr)",
@@ -1354,7 +1354,7 @@
       "id": 91,
       "nombre": "Maíz Frito",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1369,7 +1369,7 @@
       "id": 92,
       "nombre": "Maíz Frito",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1384,7 +1384,7 @@
       "id": 93,
       "nombre": "Mani con chocolate",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -1399,7 +1399,7 @@
       "id": 94,
       "nombre": "Mani Saborizado",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1414,7 +1414,7 @@
       "id": 95,
       "nombre": "Mani Saborizado",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1429,9 +1429,9 @@
       "id": 96,
       "nombre": "Mani salado",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1444,9 +1444,9 @@
       "id": 97,
       "nombre": "Mani salado",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1459,9 +1459,9 @@
       "id": 98,
       "nombre": "Mani sin sal",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1474,9 +1474,9 @@
       "id": 99,
       "nombre": "Mani sin sal",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1489,7 +1489,7 @@
       "id": 100,
       "nombre": "Mermelada Artesanal",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -1504,7 +1504,7 @@
       "id": 101,
       "nombre": "Miel Pura",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -1519,7 +1519,7 @@
       "id": 102,
       "nombre": "Miel Pura “Entre Nuts”",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -1534,7 +1534,7 @@
       "id": 103,
       "nombre": "Mix Cervecero",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1549,7 +1549,7 @@
       "id": 104,
       "nombre": "Mix Cervecero",
       "categoria": {
-        "id": 0,
+        "id": 17,
         "nombre": "Snacks salados",
         "principal": false
       },
@@ -1564,9 +1564,9 @@
       "id": 105,
       "nombre": "Mix de Semillas",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1579,9 +1579,9 @@
       "id": 106,
       "nombre": "Mix de Semillas",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1594,9 +1594,9 @@
       "id": 107,
       "nombre": "MIX PREMIUM",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú y banana disecada",
       "cantidad": "1 kg",
@@ -1609,9 +1609,9 @@
       "id": 108,
       "nombre": "MIX PREMIUM",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú y banana disecada",
       "cantidad": "1/2 kg",
@@ -1624,9 +1624,9 @@
       "id": 109,
       "nombre": "MIX PREMIUM 2",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva rubias, nueces, almendras y castañas de cajú",
       "cantidad": "1 kg",
@@ -1639,9 +1639,9 @@
       "id": 110,
       "nombre": "MIX PREMIUM 2",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva rubias, nueces, almendras y castañas de cajú",
       "cantidad": "1/2 kg",
@@ -1654,9 +1654,9 @@
       "id": 111,
       "nombre": "MIX PREMIUM SIN PASAS",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces almendras, castañas de cajú y banana disecada",
       "cantidad": "1 kg",
@@ -1669,9 +1669,9 @@
       "id": 112,
       "nombre": "MIX PREMIUM SIN PASAS",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces almendras, castañas de cajú y banana disecada",
       "cantidad": "1/2 kg",
@@ -1684,9 +1684,9 @@
       "id": 113,
       "nombre": "MIX TROPICAL",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
       "cantidad": "1 kg",
@@ -1699,9 +1699,9 @@
       "id": 114,
       "nombre": "MIX TROPICAL",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
       "cantidad": "1/2 kg",
@@ -1714,9 +1714,9 @@
       "id": 115,
       "nombre": "MIX TROPICAL ECONÓMICO",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces, pasas de uva, almendras, cajú, banana disecada y ananá glaseaso",
       "cantidad": "1 kg",
@@ -1729,9 +1729,9 @@
       "id": 116,
       "nombre": "MIX TROPICAL ECONÓMICO",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces, pasas de uva, almendras, cajú, banana disecada y ananá glaseaso",
       "cantidad": "1/2 kg",
@@ -1744,9 +1744,9 @@
       "id": 117,
       "nombre": "MIX TROPICAL SIN PASAS",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
       "cantidad": "1 kg",
@@ -1759,9 +1759,9 @@
       "id": 118,
       "nombre": "MIX TROPICAL SIN PASAS",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
       "cantidad": "1/2 kg",
@@ -1774,7 +1774,7 @@
       "id": 119,
       "nombre": "Nido Integral de Trigo",
       "categoria": {
-        "id": 0,
+        "id": 7,
         "nombre": "Fideos \"EMILIA\"",
         "principal": false
       },
@@ -1789,9 +1789,9 @@
       "id": 120,
       "nombre": "Nuez Mariposa",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1804,9 +1804,9 @@
       "id": 121,
       "nombre": "Nuez Mariposa",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1819,9 +1819,9 @@
       "id": 122,
       "nombre": "Pasa de uva rubia",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1834,9 +1834,9 @@
       "id": 123,
       "nombre": "Pasa de uva rubia",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1849,9 +1849,9 @@
       "id": 124,
       "nombre": "Pasa de uva s/semilla",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1864,9 +1864,9 @@
       "id": 125,
       "nombre": "Pasa de uva s/semilla",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1879,7 +1879,7 @@
       "id": 126,
       "nombre": "Pasas de uva con chocolate",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -1894,7 +1894,7 @@
       "id": 127,
       "nombre": "Pasta de Mani “Entre Nuts”",
       "categoria": {
-        "id": 0,
+        "id": 19,
         "nombre": "Untables",
         "principal": false
       },
@@ -1909,9 +1909,9 @@
       "id": 128,
       "nombre": "Pistacho salado c/cáscara",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1924,9 +1924,9 @@
       "id": 129,
       "nombre": "Pistacho salado c/cáscara",
       "categoria": {
-        "id": 0,
+        "id": 8,
         "nombre": "Frutos Secos",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1939,9 +1939,9 @@
       "id": 130,
       "nombre": "Poroto Aluvia",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1954,9 +1954,9 @@
       "id": 131,
       "nombre": "Poroto Aluvia",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1969,9 +1969,9 @@
       "id": 132,
       "nombre": "Poroto Colorado",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -1984,9 +1984,9 @@
       "id": 133,
       "nombre": "Poroto Colorado",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -1999,9 +1999,9 @@
       "id": 134,
       "nombre": "Poroto Negro",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2014,9 +2014,9 @@
       "id": 135,
       "nombre": "Poroto Negro",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2029,9 +2029,9 @@
       "id": 136,
       "nombre": "Premix: Falafel/Nuggets Poroto Mostaza",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(200 Grs)",
@@ -2044,7 +2044,7 @@
       "id": 137,
       "nombre": "PROTEICA SPORT",
       "categoria": {
-        "id": 0,
+        "id": 10,
         "nombre": "Granolas “TUTTI GRANI”",
         "principal": false
       },
@@ -2059,9 +2059,9 @@
       "id": 138,
       "nombre": "Quínoa Boliviana Premium",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2074,9 +2074,9 @@
       "id": 139,
       "nombre": "Quínoa Boliviana Premium",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2089,9 +2089,9 @@
       "id": 140,
       "nombre": "Quínoa Pop",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2104,9 +2104,9 @@
       "id": 141,
       "nombre": "Quínoa Pop",
       "categoria": {
-        "id": 0,
+        "id": 2,
         "nombre": "Cereales",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2119,7 +2119,7 @@
       "id": 142,
       "nombre": "Regate de Centeno",
       "categoria": {
-        "id": 0,
+        "id": 7,
         "nombre": "Fideos \"EMILIA\"",
         "principal": false
       },
@@ -2134,9 +2134,9 @@
       "id": 143,
       "nombre": "Risotto Pesto XXL",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(400 Grs X2 Uni)",
@@ -2149,9 +2149,9 @@
       "id": 144,
       "nombre": "Risotto: Hongos/Pesto/Napolitano",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(200 Grs X3 Uni)",
@@ -2164,7 +2164,7 @@
       "id": 145,
       "nombre": "Sal Marina",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -2179,7 +2179,7 @@
       "id": 146,
       "nombre": "Sal Rosada del Himalaya",
       "categoria": {
-        "id": 0,
+        "id": 6,
         "nombre": "Extras",
         "principal": false
       },
@@ -2194,9 +2194,9 @@
       "id": 147,
       "nombre": "Sazonador: Gourmet/Mostaza y Curry",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(125 Grs)",
@@ -2209,9 +2209,9 @@
       "id": 148,
       "nombre": "Sazonador: Limón/Pimienta y Fajitas",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(130 Grs)",
@@ -2224,9 +2224,9 @@
       "id": 149,
       "nombre": "SECO",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Castañas de cajú, almendras y nueces",
       "cantidad": "1 kg",
@@ -2239,9 +2239,9 @@
       "id": 150,
       "nombre": "SECO",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Castañas de cajú, almendras y nueces",
       "cantidad": "1/2 kg",
@@ -2254,9 +2254,9 @@
       "id": 151,
       "nombre": "SECO CON MANI",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, almendras, nueces y castañas de cajú",
       "cantidad": "1 kg",
@@ -2269,9 +2269,9 @@
       "id": 152,
       "nombre": "SECO CON MANI",
       "categoria": {
-        "id": 0,
-        "nombre": "MIX\u0027S",
-        "principal": false
+        "id": 15,
+        "nombre": "MIX'S",
+        "principal": true
       },
       "descripcion": "Mani, almendras, nueces y castañas de cajú",
       "cantidad": "1/2 kg",
@@ -2284,9 +2284,9 @@
       "id": 153,
       "nombre": "Sésamo Blanco",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2299,9 +2299,9 @@
       "id": 154,
       "nombre": "Sésamo Blanco",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2314,9 +2314,9 @@
       "id": 155,
       "nombre": "Sésamo Integral",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2329,9 +2329,9 @@
       "id": 156,
       "nombre": "Sésamo Integral",
       "categoria": {
-        "id": 0,
+        "id": 16,
         "nombre": "Semillas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2344,9 +2344,9 @@
       "id": 157,
       "nombre": "Soja Texturizada",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1 kg",
@@ -2359,9 +2359,9 @@
       "id": 158,
       "nombre": "Soja Texturizada",
       "categoria": {
-        "id": 0,
+        "id": 13,
         "nombre": "Legumbres",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "1/2 kg",
@@ -2374,9 +2374,9 @@
       "id": 159,
       "nombre": "Sopa de Quínoa",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(120 Grs X3 Uni)",
@@ -2389,9 +2389,9 @@
       "id": 160,
       "nombre": "Sopa Energética",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(150 Grs X3 Uni)",
@@ -2404,9 +2404,9 @@
       "id": 161,
       "nombre": "Sopa Thai",
       "categoria": {
-        "id": 0,
+        "id": 4,
         "nombre": "Comidas listas \"MOLE\"",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(85 Grs X3 Uni)",
@@ -2419,7 +2419,7 @@
       "id": 162,
       "nombre": "Stevia líquida “Kony”",
       "categoria": {
-        "id": 0,
+        "id": 5,
         "nombre": "Endulzantes",
         "principal": false
       },
@@ -2434,7 +2434,7 @@
       "id": 163,
       "nombre": "Stevia líquida “Kony”",
       "categoria": {
-        "id": 0,
+        "id": 5,
         "nombre": "Endulzantes",
         "principal": false
       },
@@ -2449,7 +2449,7 @@
       "id": 164,
       "nombre": "Tableta Chocolate Amargo “Colonial”",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -2464,7 +2464,7 @@
       "id": 165,
       "nombre": "Tableta Chocolate Amargo “Colonial”",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -2479,7 +2479,7 @@
       "id": 166,
       "nombre": "Tableta Chocolate Amargo “Colonial”",
       "categoria": {
-        "id": 0,
+        "id": 3,
         "nombre": "Chocolateria",
         "principal": false
       },
@@ -2494,7 +2494,7 @@
       "id": 167,
       "nombre": "Tirabuzón Integral de Trigo",
       "categoria": {
-        "id": 0,
+        "id": 7,
         "nombre": "Fideos \"EMILIA\"",
         "principal": false
       },
@@ -2509,9 +2509,9 @@
       "id": 168,
       "nombre": "TRADICIONAL “KÖS”",
       "categoria": {
-        "id": 0,
+        "id": 9,
         "nombre": "Granolas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "Avena arrollada gruesa, semillas de invertida, mani tostado, maíz, almendras y manzana deshidratada",
       "cantidad": "1 kg",
@@ -2524,9 +2524,9 @@
       "id": 169,
       "nombre": "Yerba “Ajedrez”",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(500Gr)",
@@ -2539,9 +2539,9 @@
       "id": 170,
       "nombre": "Yerba “Ajedrez” canchada",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(10Kg)",
@@ -2554,9 +2554,9 @@
       "id": 171,
       "nombre": "Yerba “Ajedrez” sin palo",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(10Kg)",
@@ -2569,9 +2569,9 @@
       "id": 172,
       "nombre": "Yerba “Tucangúa”",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(500 Gr)",
@@ -2584,9 +2584,9 @@
       "id": 173,
       "nombre": "Yerba Orgánica “Tucangúa”",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(2Kg)",
@@ -2599,9 +2599,9 @@
       "id": 174,
       "nombre": "Yerba Orgánica “Tucangúa”",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(5Kg)",
@@ -2614,9 +2614,9 @@
       "id": 175,
       "nombre": "Yerba Orgánica “Tucangúa”",
       "categoria": {
-        "id": 0,
+        "id": 20,
         "nombre": "Yerbas",
-        "principal": false
+        "principal": true
       },
       "descripcion": "",
       "cantidad": "(10Kg)",
