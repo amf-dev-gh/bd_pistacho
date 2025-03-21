@@ -2,14 +2,14 @@
   "productos": [
     {
       "id": 1,
-      "nombre": "“Amande” Almendras",
+      "nombre": "Leche “Amande” Almendras",
       "categoria": {
         "id": 12,
         "nombre": "Leche vegetal",
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(1Lt)",
+      "cantidad": "1 Lt",
       "precio": 7080,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -17,14 +17,14 @@
     },
     {
       "id": 2,
-      "nombre": "“Amande” Coco y Almendras",
+      "nombre": "Leche “Amande” Coco y Almendras",
       "categoria": {
         "id": 12,
         "nombre": "Leche vegetal",
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(1Lt)",
+      "cantidad": "1 Lt",
       "precio": 6830,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -32,17 +32,17 @@
     },
     {
       "id": 3,
-      "nombre": "“Entre Nuts”",
+      "nombre": "Manteca clarificada “Entre Nuts”",
       "categoria": {
         "id": 14,
         "nombre": "Manteca clarificada GHEE",
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(300Gr)",
+      "cantidad": "300 Gr",
       "precio": 11450,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
-      "destacado": false,
+      "destacado": true,
       "stock": 10
     },
     {
@@ -69,7 +69,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(360)",
+      "cantidad": "360 cc",
       "precio": 6500,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -84,7 +84,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(200)",
+      "cantidad": "200 cc",
       "precio": 4550,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -99,7 +99,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(360)",
+      "cantidad": "360 cc",
       "precio": 14290,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -114,7 +114,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(200)",
+      "cantidad": "200 cc",
       "precio": 8000,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -129,7 +129,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(500 Cc)",
+      "cantidad": "500cc",
       "precio": 6500,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -144,7 +144,7 @@
         "principal": false
       },
       "descripcion": "",
-      "cantidad": "(2 Lts)",
+      "cantidad": "2 Lts",
       "precio": 13700,
       "urlImagen": "https://i.postimg.cc/x8YzXRB9/producto-img.webp",
       "destacado": false,
@@ -680,7 +680,7 @@
       "nombre": "COMÚN",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, pasas de uva, almendras, nueces y semillas de girasol",
@@ -695,7 +695,7 @@
       "nombre": "COMÚN",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, pasas de uva, almendras, nueces y semillas de girasol",
@@ -710,7 +710,7 @@
       "nombre": "COMÚN C/CASTAÑA",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, almendras, nueces, castañas de cajú, girasol y pasas de uva",
@@ -725,7 +725,7 @@
       "nombre": "COMÚN C/CASTAÑA",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, almendras, nueces, castañas de cajú, girasol y pasas de uva",
@@ -1595,7 +1595,7 @@
       "nombre": "MIX PREMIUM",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú y banana disecada",
@@ -1610,7 +1610,7 @@
       "nombre": "MIX PREMIUM",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú y banana disecada",
@@ -1625,7 +1625,7 @@
       "nombre": "MIX PREMIUM 2",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva rubias, nueces, almendras y castañas de cajú",
@@ -1640,7 +1640,7 @@
       "nombre": "MIX PREMIUM 2",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva rubias, nueces, almendras y castañas de cajú",
@@ -1655,7 +1655,7 @@
       "nombre": "MIX PREMIUM SIN PASAS",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces almendras, castañas de cajú y banana disecada",
@@ -1670,7 +1670,7 @@
       "nombre": "MIX PREMIUM SIN PASAS",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces almendras, castañas de cajú y banana disecada",
@@ -1685,7 +1685,7 @@
       "nombre": "MIX TROPICAL",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
@@ -1700,7 +1700,7 @@
       "nombre": "MIX TROPICAL",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Pasas de uva, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
@@ -1715,7 +1715,7 @@
       "nombre": "MIX TROPICAL ECONÓMICO",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces, pasas de uva, almendras, cajú, banana disecada y ananá glaseaso",
@@ -1730,7 +1730,7 @@
       "nombre": "MIX TROPICAL ECONÓMICO",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces, pasas de uva, almendras, cajú, banana disecada y ananá glaseaso",
@@ -1745,7 +1745,7 @@
       "nombre": "MIX TROPICAL SIN PASAS",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
@@ -1760,7 +1760,7 @@
       "nombre": "MIX TROPICAL SIN PASAS",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, nueces, almendras, castañas de cajú, banana disecada y ananá glaseaso",
@@ -2225,7 +2225,7 @@
       "nombre": "SECO",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Castañas de cajú, almendras y nueces",
@@ -2240,7 +2240,7 @@
       "nombre": "SECO",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Castañas de cajú, almendras y nueces",
@@ -2255,7 +2255,7 @@
       "nombre": "SECO CON MANI",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, almendras, nueces y castañas de cajú",
@@ -2270,7 +2270,7 @@
       "nombre": "SECO CON MANI",
       "categoria": {
         "id": 15,
-        "nombre": "MIX'S",
+        "nombre": "MIX\u0027S",
         "principal": true
       },
       "descripcion": "Mani, almendras, nueces y castañas de cajú",
